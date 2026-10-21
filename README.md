@@ -1,5 +1,5 @@
 # php2shell-diagnostic
-Non-destructive testing toolkit for php2shell (CVE-2026-109618 / CVE-2026-109619) - Compatible with PHP 5.2+
+Non-destructive PHP2Shell Exposure and Multipart Filtering Diagnostic toolkit (CVE-2026-109618 / CVE-2026-109619) - Compatible with PHP 5.2+
 
 PHP2Shell Benign Server Diagnostic — PHP 5.2+
 ================================================
