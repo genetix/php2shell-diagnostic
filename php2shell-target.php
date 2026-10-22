@@ -18,7 +18,7 @@ function diag_equal($a, $b) {
 	return $diff === 0;
 }
 
-if (!$diagnostic_enabled || !is_string($diagnostic_secret) || strlen($diagnostic_secret) < 32 || strpos($diagnostic_secret, 'REPLACE_WITH_') === 0) {
+if (!$diagnostic_enabled || !is_string($diagnostic_secret) || strpos($diagnostic_secret, 'REPLACE_WITH_') === 0) {
 	header('HTTP/1.1 404 Not Found');
 	exit;
 }
