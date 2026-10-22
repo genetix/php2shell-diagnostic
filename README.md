@@ -7,7 +7,7 @@ PHP2Shell Benign Server Diagnostic — PHP 5.2+
 FILES
 - php2shell-diagnostic.php : password-protected controller
 - php2shell-target.php     : benign test endpoint
-- php2shell-config.php     : shared configuration (do not publish configured copy)
+- php2shell-config.php     : shared configuration
 
 SETUP
 1. Upload all three files to the same directory on a server you administer.
